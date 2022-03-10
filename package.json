@@ -1,0 +1,19 @@
+{
+  "name": "demo-series",
+  "version": "1.0.0",
+  "description": "some demos for learning concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/showwwwww/demo-series.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/showwwwww/demo-series/issues"
+  },
+  "homepage": "https://github.com/showwwwww/demo-series#readme"
+}
