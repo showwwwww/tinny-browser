@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/showwwwww/demo-series/issues"
   },
-  "homepage": "https://github.com/showwwwww/demo-series#readme"
+  "homepage": "https://github.com/showwwwww/demo-series#readme",
+  "devDependencies": {
+    "css": "^3.0.0",
+    "images": "^3.2.4"
+  }
 }
